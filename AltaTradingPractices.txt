@@ -1,0 +1,4 @@
+*** Alta Trading Good Practices ***
+
+- SQL Views
+	- When declaring a field, always specify what table it comes from. This prevents future double referencing problems.
